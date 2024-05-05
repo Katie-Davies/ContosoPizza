@@ -13,7 +13,7 @@ public class PizzaController : ControllerBase
   }
 
   // GET all action
-
+  public ActionResult<List<Pizza>> GetAll() => PizzaService.GetAll();
   // GET by Id action
 
   // POST action
