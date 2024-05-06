@@ -30,3 +30,4 @@
 /Users/katiedavies/webDevelopment/microsoft-student-accelerator/ContosoPizza/obj/Debug/net8.0/ContosoPizza.pdb
 /Users/katiedavies/webDevelopment/microsoft-student-accelerator/ContosoPizza/obj/Debug/net8.0/ContosoPizza.genruntimeconfig.cache
 /Users/katiedavies/webDevelopment/microsoft-student-accelerator/ContosoPizza/obj/Debug/net8.0/ref/ContosoPizza.dll
+/Users/katiedavies/webDevelopment/microsoft-student-accelerator/ContosoPizza/obj/Debug/net8.0/ContosoPizza.sourcelink.json
